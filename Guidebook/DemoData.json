@@ -1,0 +1,265 @@
+[{"name": "The African Savanna & Madagascar", "summary": "A savanna is a biome similar to a grassland, containing many small shrubs but few trees. The climate is warm year-round. Animals living here must adapt to survive without much water.",
+    "imageName": "afrsav",
+    "attractions": [
+        
+        {"name": "African Lion",
+            "sciName": "Panthera leo",
+            "summary": "African lions live in sub-Saharan Africa in prides of up to 30 individuals, with females designated as the primary hunters.",
+            
+            "longDescription": "Lifespan: up to 15 years (wild), up to 30 years (captivity)\r\rLength: 5-8 feet\rWeight: 300-600 lbs\r\rGeo Range & Biome: sub-Saharan Africa, including savannas, grasslands, and woodlands in Africa\r\rFacts:\r- live in prides of up to 30 lions\r- females are primary hunters\r- use scent to mark their territory\r- they use their rough tongues to remove flesh from their prey",
+            
+            "imageName": "lion", "latLong": "38.539741840249576, -121.50539212871483"},
+        
+        {"name": "Cheetah",
+            "sciName": "Acinonyx jubatus",
+            "summary": "Cheetahs are the fastest land mammals, capable of running up to 70 mph. Also, cheetahs meow instead of roaring!",
+            
+            "longDescription": "Lifespan: 8–10 years (wild), up to 20 years (captivity)\rWeight: 75-125 pounds. Length: 40 to 60 inches, measured from the head to the hind quarters. The tail can add a further 24 to 32 inches bringing the total overall length up to 7.5 feet Eastern and Southern areas in Africa; grasslands, savannas, shrublands, and even desert",
+            
+            "imageName": "cheetah", "latLong": "38.53864710644105, -121.50446345185895"},
+        
+        {"name": "Masai Giraffe",
+            "sciName": "Giraffa tippelskirchi",
+            "summary": "Growing up to around 20 feet tall, Masai giraffes are distinguished by their jagged brown spots.",
+            
+            "longDescription": "Lifespan: 10–15 years in the wild, 20–27 years in human care\r\rHeight: 18 feet\r\rWeight: 1500-4000 pounds\r\rGeo Range & Biome: East Africa, open woodlands and dry savannas, avoid closed canopy forests\r\rFacts:\r- Easily distinguished from other giraffes by the jagged, irregularly shaped brown patches on their hide\r- Their six-foot-long necks enable them to eat leaves, flowers, and twigs that most animals cannot reach\r- Giraffes have seven neck vertebrae, with each possibly reaching over 10 inches long\r\rDiet: leaves, bark, twigs, flowers, and fruits\r\rConservation Status: endangered, only about 35,000 individuals remaining.",
+            
+            "imageName": "giraffe", "latLong": "38.53840610016001, -121.50370744999638"},
+        
+        {"name": "Grevy’s Zebra",
+            "sciName": "Equus grevyi",
+            "summary": "The largest zebra species, Grevy's zebra are endangered at fewer than 2,500 individuals.",
+            
+            "longDescription": "Lifespan: 20–25 years in the wild and 25–30 years in captivity\r\rHeight: 4–5 ft tall\r\rWeight: 770–950 lbs\r\rGeo Range & Biome: semi-arid grasslands and scrublands in northern Kenya and southern Ethiopia with access to water source\r\rFacts:\r- They have long, slender legs and hoofed feet that allow them to run quickly in an effort to avoid fast-moving predators\r- Grevy's zebras have very keen eyesight\r\rDiet: primarily eat grasses, leaves, and stems of taller grasses, but will also eat shrubs, trees, bark, fruit, and buds\r\rConservation Status: endangered, fewer than an estimated 2,500 individuals",
+            
+            "imageName": "zebra", "latLong": "35.714974138640066, 139.79667675457168"},
+        
+        {"name": "Southern White Rhinoceros",
+            "sciName": "Ceratotherium simum simum",
+            "summary": "Southern white rhinoceroses develop thick, armor-like skin and must eat up to 120 pounds of grass a day.",
+            
+            "longDescription": "Lifespan: up to 50 years in the wild and up to 55 years in captivity\r\rHeight: stand 5–6.2 ft\r\rWeight: 3,080–6,000 lbs\r\rGeo Range & Biome: almost exclusively in South Africa; grasslands, savannas, and shrublands\r\rFacts:\r- They cool down in muddy waterholes\r- Thick skin, like armor, allow them to move through thorny shrubs\r\rDiet: grasses, shrubs, and woody plants, must eat up to 120 pounds of grass per day\r\rConservation Status: Near Threatened, almost 16000 individuals in the wild",
+            
+            "imageName": "rhinoceros", "latLong": "38.538698838128276, -121.5032907017707"},
+        
+        {"name": "Meerkat",
+            "sciName": "Suricata suricatta",
+            "summary": "Meerkats have special membranes that protect their eyes from dirt and debris when digging burrows.",
+            
+            "longDescription": "Lifespan: 5-15 years in wild, up to 20 in captivity\r\rOverall length (with tail): 20 inches, Tail: 7.5–9.5 inches\r\rWeight: 1.4–2.1 pounds\r\rGeo Range & Biome: southern tip of Africa; dry, open plains, savannas, and grasslands, and are often found in the Kalahari Desert\r\rFacts:\r- Females are slightly larger than males\r- Meerkats are adapted for digging, with a membrane that protects the eye while burrowing\r- Meerkats are born with a long thin tail that enables them to maintain balance when standing on their hind legs\r\rDiet: insects, small vertebrates, fruit, and some plant matter\r\rConservation Status: least concern - 500,000 in the wild",
+            
+            "imageName": "meer", "latLong": "38.53864710644105, -121.50446345185895"},
+        
+        {"name": "Mongoose Lemur",
+            "sciName": "Eulemur mongoz",
+            "summary": "Mongoose lemurs, native to the forests of Madagascar, become nocturnal in the dry season to avoid the heat of daylight.",
+            
+            "longDescription": "Lifespan: 18–20 years (wild), 26 years (captivity)\r\rWeight: 4.4 and 6.6 pounds\r\rHeight: 13.7 inches, Tail: 19 inches\r\rGeo Range & Biome: dry deciduous forests of northwest Madagascar, humans introduced them to the Comoros Islands\r\rFacts:\r- Only during the dry season, mongoose lemurs are nocturnal: to avoid predators and the hottest part of the day\r- They may serve as important pollinators and seed dispersers.\r\rDiet: frugivorous (fruit) diet mainly supplemented by leaves, flowers, and nectar. They also occasionally consume beetles, grubs, fungi, dead wood, and even birds.\r\rConservation Status: critically endangered! 1,000-10,000 in the wild",
+            
+            "imageName": "mongooselemur", "latLong": "38.5386619292591, -121.50400266222931"},
+        
+        {"name": "Ring-tailed Lemur",
+            "sciName": "Lemur catta",
+            "summary": "Ring-tailed lemurs, native to Madagascar, have long, striped tails used for balance and as a visual signal.",
+            
+            "longDescription": "Lifespan: 18 years (wild), 30+ years (captivity)\r\rBody length: 15.4–18.1 inches; Tail: +22–24.4 inches to total length\r\rWeight: 4.8–7.7 lbs\r\rGeo Range & Biome: native to the southwestern part of the island of Madagascaronly; dry forests, bush, spiny forests, lowland gallery forests, dry scrub, dry deciduous forests, and rock canyons\r\rFacts:\r- Their territories can range from 15 to 57 acres\r- They have semi-opposable thumbs\r- Their long tails (over 20 inches) are used for balance and as a VISUAL SIGNAL.\r- during the dry season, they often eat more succulent plants to get enough water\r\rDiet: leaves, flowers, fruit, bark, sap, and insects; small vertebrates like birds and chameleons; decayed wood, earth, spider webs, and insect cocoons\r\rConservation Status: endangered, population: 2000-2500",
+            
+            "imageName": "ringtail", "latLong": "38.5386619292591, -121.50400266222931"},
+        
+        {"name": "Black and White Ruffed Lemur",
+            "sciName": "Varecia variegata",
+            "summary": "The black and white ruffed lemur is home to the forests of the Masoala Peninsula in northeastern Madagascar. It has semi-opposable thumbs and is able to hang upside down from its feet.",
+            
+            "longDescription": "Lifespan: 19 years (wild), 25 years (captivity)\r\rBody Length: 20-22 inches; Tail: adds 24-26 inches\rWeight: 6.6-10 lbs\r\rGeo Range & Biome: northeastern part of Madagascar; forests of the Masoala Peninsula\r\rFacts:\r- semi-opposable thumbs on the hands\r- ability to hang upside from their feet\r\rDiet: vegetarian. eat mostly fruit. also eat leaves, seeds, and nectar\r\rConservation Status: critically endangered, population: 1000-10,000",
+            
+            "imageName": "ruffed", "latLong": "38.5397785050343, -121.50281346001431"},
+        
+        {"name": "Wolf’s Guenon",
+            "sciName": "Cercopithecus wolfii",
+            "summary": "The wolf's guenon's cheek pouches can store almost as much food as its stomach.",
+            
+            "longDescription": "Lifespan: 20 years (wild), 20–26 years (captivity)\r\rLength: up to 50 inches (20 inches of body, 30 inches of tail)\rWeight: 6-9 lbs\r\rGeo Range & Biome: western Africa, in rainforests and swamp forests\r\rFacts:\r- diurnal (most active early in the day and late afternoon)\r- have large cheek pouches that can store almost as much food as its stomach\r- long tails which help with balance while in the trees\r\rDiet: fruits, seeds, and insects, some reptiles and occasionally small mammals\r\rConservation Status: least concern, population is declining",
+            
+            "imageName": "guenon", "latLong": "35.696794229887736, 139.57038850594148"},
+        
+        {"name": "Okapi",
+            "sciName": "Okapia johnstoni",
+            "summary": "Okapis have reddish-brown fur that blends in with the shadows of the forest, as well as white stripes that help mothers and calves stay together.",
+            
+            "longDescription": "Lifespan: unknown (wild), 15-30 years (captivity)\r\rHeight: 5–6.7 ft at the shoulder\rLength: 6.2–8.2 ft\rWeight: 397–772 lbs (Female okapis are usually larger than males)\r\rGeo Range & Biome: dense tropical rainforests of central Africa, primarily in the Ituri Forest in the Democratic Republic of Congo\r\rFUN FACTS!!\r- are national animal of the Democratic Republic of Congo, even featured on local bank notes\r- reddish-brown fur blends in with forest shadows; white stripes on rump mimic sunrays streaming through the trees\r- Okapi stripes are sometimes called 'follow-me stripes' - their visual helps mothers and calves stay together\r- they can communicate with INFRASOUND!!!\r- FOUR-CHAMBERED STOMACH TO HELP DIGESTION!\r- thick, dark body oil that helps repel rain and moisture\r- can retract their eyeballs with a third eyelid that protects from spiky branches\r- their large ears can move independently and pick up soft sounds from all directions\r\rDiet: Leaves, buds, and twigs, eat 45-60 lbs of vegetation a day; occasionally fruits and fungi; eat clay they find near riverbeds to get minerals and salt; also eat charcoal from burnt trees to neutralize toxins in plants\r\rConservation Status: Endangered (habitat loss due to logging, human settlement, illegal mining, hunting; population: at most 5,000-30,000",
+            
+            "imageName": "okapi", "latLong": "38.53864710644105, -121.50446345185895"},
+        
+        {"name": "Abyssinian Ground Hornbill",
+            "sciName": "abyss",
+            "summary": "Although capable of flying, Abyssinian ground hornbills prefer to run from predators.",
+            
+            "longDescription": "Lifespan: up to 40 years (captivity), unknown (wild)\r\rLength: 40 inches long\rWeight: 8-11 pounds\r\rGeo Range & Biome: savannas, grasslands, and scrub across north-central Africa from Senegal and Guinea on the western coast to Ethiopia on the eastern coast.\r\rFacts:\r- They have to have a tree in their habitat to nest.\r- The noticeable \"eyelashes\" of Abyssinian ground hornbills are actually modified feathers that protect their eyes from injury and dirt.\r- While they are able to fly, Abyssinian ground hornbills prefer to run if threatened. They will, however, fly to catch prey or defend territory\rDiet: reptiles such as cobras, tortoises and lizards, as well as mammals like hares and mongooses, and insects and arachnids. Occasionally they will scavenge for carrion to supplement their diet, as well as consume seeds and fruit.\r\rConservation Status: least concern, population unknown",
+            
+            "imageName": "abyss", "latLong": "38.53999224960668, -121.5043819417446"},
+        
+        {"name": "Crowned Crane",
+            "sciName": "Balearica regulorum",
+            "summary": "Crowned cranes are tall, elegant birds from eastern Africa, distinguished by golden, crown-like feathers atop their head (hence their name).",
+            
+            "longDescription": "Lifespan: 30 years (captivity), 20 years (wild)\r\rHeight: 36 to 48 in\rWeight: 6.6 to 8.8 lbs\r\rGeo Range & Biome: eastern Africa, centered in Senegal and Gambia, scattered across central africa\r\rFacts:\r- one of only two crane species able to nest in trees\rDiet: omnivorous feeding on plants, worms, insects, lizards, and small mammals.\r\rConservation Status: endangered, pop: 58,000-77,000",
+            
+            "imageName": "crown", "latLong": "35.714974138640066, 139.79667675457168"}
+    ]
+},
+    
+    
+    {"name": "Southern-Central Asia", "summary": "The Himalayan Mountains and tropical rainforests of Asia possess a diverse range of species. Animals in the Himalayas are adapted to the high elevation and low oxygen levels, while rainforest inhabitants adapted with camouflage.",
+        "imageName": "bam",
+        "attractions": [
+            {"name": "Sumatran Orangutan",
+                "sciName": "Pongo abelii",
+                "summary": "Orangutans are the largest tree-dwelling mammal, as well as one of the smartest primate species. They have been observed to use tools and build nests out of branches.",
+                
+                "longDescription": "Lifespan: 40-60 years (wild), about the same in captivity\r\rLength: 4-5 feet\rWeight: 66–198 lbs\r\rGeo Range & Biome: northern areas of Sumatra, Indonesia (an island); in rainforests, swamp forests\r\rFacts:\r- some of the most intelligent apes, with quiet, introverted personalities\r- almost exclusively arboreal (rarely traveling on the ground)\r- most endangered primate species\r\rDiet: fruit, insects, leaves\r\rConservation Status: critically endangered, population: 14,000",
+                
+                "imageName": "orangutan", "latLong": "38.53840610016001, -121.50370744999638"},
+            
+            {"name": "Snow Leopard",
+                "sciName": "Panthera uncia",
+                "summary": "Snow leopards have thick fur coats suited to living in the Himalayan Mountains. They take advantage of their habitat's rocky, uneven terrain to ambush their prey.",
+                
+                "longDescription": "Lifespan: up to 25 years (captivity), 15–18 years (wild)\r\rLength: 6–7 feet long\rWeight: 80-120 lbs\r\rGeo Range & Biome: mountainous regions throughout Asia such as the Himalayan Mountains\r\rDiet: wild sheep and goats, small mammals (rodents), and birds\r\rFacts:\r- can kill animals up to 3 times their weight",
+                
+                "imageName": "snowleop", "latLong": "38.539741840249576, -121.50539212871483"},
+                
+            {"name": "Red Panda",
+                "sciName": "Ailurus fulgens",
+                "summary": ".",
+                
+                "longDescription": "Lifespan: 8–10 years (wild), up to 14 years (captivity)\r\rLength: 22-24.6 inches\rWeight: 8-17 lbs\r\rGeo Range & Biome: temperate forests of the Himalayas and other high mountains in Southern Asia\r\rFacts:\r- Not related to Giant Pandas\r- Red pandas are carnivores with a diet consisting 95% of bamboo\r- have six digits on their front paws\r- spend 17 hours a day sleeping\r\rDiet: bamboo, insects, eggs, rodents, small birds\r\rConservation status: endangered, population: less than 10,000",
+                
+                "imageName": "redpanda", "latLong": "38.53864710644105, -121.50446345185895"},
+            
+            {"name": "White-handed Gibbon",
+                "sciName": "Hylobates lar",
+                "summary": "Using long arms and curved fingers, white-handed gibbons can swing 50 feet in between branches at almost 40 mph! In addition, these gibbons are monogamous, meaning they mate for life.",
+                
+                "longDescription": "Lifespan: up to 50 years (captivity), 30 years (wild)\r\rLength: 16-23 inches\rWeight: 10-17 lbs\r\rGeo Range & Biome: tropical rainforests of Southeast Asia\r\rFacts:\r- can swing through trees at speeds up to 35 mph!\r\rDiet: fruits (especially figs), leaves, flowers, insects, and birds\r\rConservation status: endangered, population unknown",
+                
+                "imageName": "gibbon", "latLong": "38.538831397926934, -121.50335381750158"}
+        ]
+    },
+    
+    
+    {"name": "Australian Outback", "summary": "Animals such as kangaroos and emus inhabit the Australian Outback, which encompasses semi-arid to arid regions with little to no rain and vegetation. Many of these animals adapted to conserve water in their bodies and also cover long distances quickly.",
+        "imageName": "outback",
+        "attractions": [
+            {"name": "Red Kangaroo",
+                "sciName": "Macropus rufus",
+                "summary": "Red kangaroos can hop over 30 mph with the ability to jump 25 feet forward and 6 feet high, but they cannot walk backwards!",
+                
+                "longDescription": "Lifespan: 9-23 years (wild), up to 25 years (captivity)\r\rHeight: up to 6 feet (males), around 3.5 feet (females)\rWeight: up to 200 lbs (males), up to 75 lbs (females)\r\rGeo Range & Biome: throughout the semi-arid and arid regions of mainland Australia; open plains, grasslands, and sometimes deserts\r\rFacts:\r- Red kangaroos populations are absent from coastal regions of Australia\r\rDiet: variety of plants, including grasses, shrubs, and forbs (a species of flowering plant)\r\rConservation Status: Least concern, population: 11.5 million",
+                
+                "imageName": "kang", "latLong": "38.538698838128276, -121.5032907017707"},
+            
+            {"name": "Emu",
+                "sciName": "Dromaius novaehollandiae",
+                "summary": "- Emus are 2 meters tall.\r- They use their wings to steer themselves while running.\r- Since they lack teeth, emus swallow pebbles to grind their food up.\r- Emus' bodies contain 3 gallons of oil.",
+                
+                "longDescription": "Lifespan: 10-20 years (wild), up to 35 years (captivity)\r\rHeight: 5.7 feet average\rWeight: males are 110-121 lbs, females are around 11 lbs more than males\r\rGeo Range & Biome: throughout Australia, with population concentrations in Eastern and Western areas of the continent; found in eucalyptus forests, woodlands, desert shrub lands, and sand plains\r\rFacts:\r- second largest bird\r- nest can be up to 5 feet wide\r- an emu egg can weigh up to 1.5 lbs, equal to about 12 chicken eggs!\r- can run up to 30 mph\r- emus swallow large pebbles to grind food in their stomachs\r\rDiet: ",
+                
+                "imageName": "emu", "latLong": "38.538698838128276, -121.5032907017707"}
+        ]
+    },
+    
+    
+    {"name": "North America", "summary": "North America is characterized with a climate ranging from subarctic to tropical. The continent also contains several forest biomes, such as tundras and deciduous forests.",
+        "imageName": "nameric",
+        "attractions": [
+            {"name": "North American River Otter",
+                "sciName": "Lontra canadensis",
+                "summary": "River otters can dive 60 feet deep and hold their breaths for four minutes! These otters are also the most sociable, talkative otter species - they have been recorded to make 22 distinct noises in different situations.",
+                
+                "longDescription": "Lifespan: 8-9 years (wild), up to 25 years (captivity)\r\rLength: 26 to 42 inches\rWeight: 11-30 lbs\r\rGeo Range & Biome: Northern North America, aquatic habitats (both marine and fresh water): streams, rivers, lakes, ponds and marshes\r\rDiet: mostly aquatic organisms, including fish, frogs, crayfish, turtles, insects and some small mammals\r\rFacts:\r- sometimes hunt in pairs.\r- may travel 10-18 miles on land in search of food\r\rConservation Status: least concern, population: over 100,000",
+                
+                "imageName": "otter", "latLong": "38.53886767341725, -121.50421840992367"},
+            
+            {"name": "American Alligator",
+                "sciName": "Alligator mississippiensis",
+                "summary": "American alligators have remained almost completely unchanged for over 8 million years of evolution! Some amazing traits include their glowing eyes that allow nighttime vision, and their incredibly acidic stomachs' ability to dissolve animal bones!",
+                
+                "longDescription": "Lifespan: around 50 years (wild), 60-80 years (captivity)\r\rLength: 8-11 feet\rWeight: 200 lbs (female) to 800 lbs (male)\r\rGeo Range & biome: southeastern United States (specifically) Florida and Louisiana; in rivers, lakes, ponds, swamps, and marshes\r\rFacts:\r- Alligators Are Ancient\r- can't survive in salt water\r- can weigh more than 1,000 lbs\r- their sex can be determined by their egg temperature\r- can run fast but become tired quickly\r- their eyes glow in the dark\r\rDiet: insects, amphibians, fish, snakes, turtles, mammals, birds\r\rConservation Status: least concern; population: around 5 million in southeastern United States",
+                
+                "imageName": "gator", "latLong": "38.53902330160005, -121.50369521241775"},
+            
+            {"name": "Thick-billed Parrot (aviary)",
+                "sciName": "Rhynchopsitta pachyrhyncha",
+                "summary": "Thick-billed parrots, once plentiful in the pine forests of Mexico, are now endangered at a wild population of less than 2,000 individuals.",
+                
+                "longDescription": "Lifespan: 40-60 years (wild), up to 33 years (captivity)\r\rLength: 15 inches long\rWeight: 315–370 grams\r\rGeo Range & Biome: pine forests of Mexico\r\rFacts:\r- at risk of losing their habitats due to illegal hunting and predation\r\rDiet: mostly pine nuts, but they also eat buds, acorns, and juniper fruits\r\rConservation status: endangered, wild population: less than 2,000",
+                
+                "imageName": "thickbill", "latLong": "35.68512626065214, 139.71080566797045"}
+        ]
+    },
+    
+    
+    {"name": "South America", "summary": "The tropical rainforests of South America are home to a wide variety of animal species, such as monkeys and sloths that are adapted to climbing trees.",
+        "imageName": "jungle",
+        "attractions": [
+            {"name": "Galapagos Tortoise",
+                "sciName": "Chelonoidis niger",
+                "summary": "Due to a slow metabolic rate (the rate a body uses up its energy), Galapagos tortoises can live up to almost 200 years!",
+                
+                "longDescription": "Lifespan: 100+ years (wild), up to 177 years (captivity)\r\rLength: 5-6 feet\rWeight: 250-500 lbs\r\rGeo Range & Biome: Galapagos Islands, around 600 miles off the coast of Ecuador; dry lowlands\r\rFacts:\r- some have special saddle-like shells that rise in the front, allowing greater mobility for their necks\r- they lift their heads high to eat tree cactus\r\rDiet: Grasses, Cactus, Fruits, Flowers and leaves, vines\r\rConservation status: endangered, population: 15,000 in the wild",
+                
+                "imageName": "galapagos", "latLong": "38.53840610016001, -121.50370744999638"},
+            
+            {"name": "Jaguar",
+                "sciName": "Panthera onca",
+                "summary": "As apex predators, jaguars inhabit a variety of biomes in South America, from rainforests to grasslands and dry deciduous forests.",
+                
+                "longDescription": "Lifespan: 12-15 years (wild), 23 years (captivity)\r\rLength: 5-8 feet from nose to tail\rWeight: 140-300 lbs\r\rGeo Range & Biome: rainforests, seasonally flooded forests, grasslands, woodlands and dry deciduous forests in northwestern areas on the continent of South America",
+                
+                "imageName": "jaguar", "latLong": "38.53902330160005, -121.50369521241775"},
+            
+            {"name": "Capybara",
+                "sciName": "Hydrochoerus hydrochaeris",
+                "summary": "Capybaras are semi-aquatic herbivores that live throughout South America. They sometimes eat their own poop to obtain beneficial digestive bacteria!",
+                
+                "longDescription": "Lifespan: up to 10 years (wild), up to 12 years (captivity)\rLength: 3.2-4.2 feet long\rWeight: 60-174 pounds\r\rGeo Range & Biome: throughout south america, are semi-aquatic and found in dense vegetation around rivers, lakes, ponds, marshes and swamps\r\rDiet: grasses, aquatic plants, cultivated fields, fruit and tree bark\r\rFacts:\r- Capybaras eat their own poop to obtain beneficial bacteria that digest the thick fiber in their meals\r- found in groups of up to 100\r\rConservation status: least concern, population: over 1,000,000 found in Brazil alone",
+                
+                "imageName": "capy", "latLong": "38.539741840249576, -121.50539212871483"},
+            
+            {"name": "Caribbean Flamingo (N America too)",
+                "sciName": "Phoenicopterus ruber",
+                "summary": "Caribbean flamingos can be found in Central America. Their brine shrimp-abundant diet is what makes their feathers pink.",
+                
+                "longDescription": "Lifespan: 20-30 years (wild), up to 50 years (captivity)\r\rHeight: 47 to 57 inches tall\rWeight: 4.2-6.6 lbs\r\rGeo Range & Biome: Caribbean, Central America, northeastern South America, and the Galapagos Islands; in large, shallow lakes or lagoons\r\rDiet: algae, crustaceans, and tiny mollusks\r\rFact:\r- eating brine shrimp makes them pink\r\rConservation Status: Least Concern, population: around 300,000",
+                
+                "imageName": "flamingo", "latLong": "38.53841924834899, 139.57038850594148"},
+            
+            {"name": "Squirrel Monkey",
+                "sciName": "Saimiri sciureus",
+                "summary": "Squirrel monkeys live in groups of up to 500 individuals! They can also communicate with each other with 30 distinct calls.",
+                
+                "longDescription": "Lifespan: 15–20 years (wild), up to 30 years (captivity)\r\rLength: 9.8–13.8 inches long, plus a tail of 14–17 inches\rWeight: Male squirrel monkeys weigh 750–1,100 grams (26–39 ounces), while females weigh 500–750 grams (18–26 ounces)\r\rGeo Range & Biome: tropical rainforests of South and Central America including amazon basin\r\rFacts:\r- Squirrel monkeys spend several hours at the beginning of the day collecting fruit.\r- Squirrel monkeys search for spiders and insects throughout the forest. They pounce on insects like flies and butterflies.\r- make twittering and clucking sounds to attract insects and animals\r\rDiet: flowers, leaves, seeds, and eggs.\r\rConservation Status: least concern",
+                
+                "imageName": "squirrelmonke", "latLong": "38.53902330160005, -121.50369521241775"},
+            
+            {"name": "White-faced Saki",
+                "sciName": "Pithecia pithecia",
+                "summary": "White-faced sakis live in South America's tropical rainforests. They feed on flowers, leaves, and insects, as well as some small birds and mammals.",
+                
+                "longDescription": "Lifespan: 15 years (wild), 35 years+ (captivity)\r\rLength: 12-16 inches long, including tai\rWeight: 3-5 pounds\r\rGeo Range & Biome: tropical rainforests of northern South America\r\rDiet: Flowers, leaves, small birds and mammals, insects, fungi\r\rConservation status: least concern, population: unknown",
+                
+                "imageName": "saki", "latLong": "35.696794229887736, 139.57038850594148"},
+            
+            {"name": "Linne’s Two-toed Sloth",
+                "sciName": "Choloepus didactylus",
+                "summary": "Linne's two-toed sloth mate and give birth while hanging upside down from trees.",
+                
+                "longDescription": "Lifespan: 20 years (wild), up to 40 years (captivity)\r\rLength: 21–29 inches long\rWeight: 9–19 pounds\r\rGeo Range & Biome: South America's rain forests\r\rFacts:\r- With two toes on their front feet and three on their back limbs, they are perfectly designed for life in trees\r- mate and give birth while hanging upside down!\r\rDiet: mainly leaves but occasionally will eat fruit, known to eat bird's eggs, lizards and insects\r\rConservation status: least concern, population unknown",
+                
+                "imageName": "sloth", "latLong": "35.68512626065214, 139.71080566797045"}
+        ]
+    }
+]
+
+
+
